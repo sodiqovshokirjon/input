@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    
+}
+
+div{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    transition: all 0.4s ease;
+}
+input{
+    margin-top: 50px;
+    width: 200px;
+    height: 40px;
+    font-size: 25px;
+}
